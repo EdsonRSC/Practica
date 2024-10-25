@@ -1,0 +1,22 @@
+"usuarios" : [
+  {
+  "id" : 1
+  "nombre" : "Nefi Ocampo"
+  },
+  {
+  "id" : 2
+  "nombre" : "Cristi Eugenio"
+  },
+  {
+  "id" : 3
+  "nombre" : "Juan Perez"
+  },
+  {
+  "id" : 4
+  "nombre" : "Cristian Roman"
+  },
+  {
+  "id" : 5
+  "nombre" : "Leslie Chavez"
+  },
+]
