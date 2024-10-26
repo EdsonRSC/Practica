@@ -2,23 +2,23 @@
   "usuarios": [
     {
       "id": 1,
-      "nombre": "Nefi Ocampo"
+      "nombre": "Persona 1"
     },
     {
       "id": 2,
-      "nombre": "Cristi Eugenio"
+      "nombre": "Persona 2"
     },
     {
       "id": 3,
-      "nombre": "Juan Perez"
+      "nombre": "Persona 3"
     },
     {
       "id": 4,
-      "nombre": "Cristian Roman"
+      "nombre": "Persona 4"
     },
     {
       "id": 5,
-      "nombre": "Leslie Chavez"
+      "nombre": "Persona 5"
     }
   ]
 }
